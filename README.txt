@@ -1,7 +1,7 @@
 CSC 260 – Object-Oriented Design | Final Project
 
 
-—---------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------
 
 
 Bagaincha is a desktop application designed to simulate a community-driven platform that supports rural development. It provides different user roles; farmers, artisans, and admins with tools to manage agricultural data, track local products, and promote sustainable practices.
@@ -18,7 +18,7 @@ Communities can collectively benefit from localized data, pricing fairness, and 
 This version focuses on a technical simulation that highlights Object-Oriented Design in action.
 
 
-—---------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------
 
 
 Role-Based Login
@@ -38,7 +38,9 @@ Shares product-handling logic via IProductHandler interface.
 
 Admin Dashboard
 Basic layout showing potential to manage pricing and resource distribution.
-—---------------------------------------------------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------------------------------------------------
 
 
 Object-Oriented Design Summary
@@ -49,8 +51,7 @@ Encapsulation: Each form (Farmer, Admin, etc.) is modular and manages its own UI
 Interface Implementation: IProductHandler allows shared product features across different user roles.
 
 
-
-—---------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------
 
 
 Technologies Used
@@ -59,7 +60,8 @@ Visual Studio 2022
 Object-Oriented Design principles
 GitHub for version control
 
-—---------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
 
 
 How to Use the App
@@ -72,7 +74,8 @@ Username: admin, Password: admin
 Try adding products (in the Farmer dashboard) and viewing them in a list.
 
 
-—---------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------
+
 
 Pawan Chaudhary
 Dakota State University
